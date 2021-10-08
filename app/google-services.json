@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "494065508601",
+    "project_id": "examenparcial-8d77e",
+    "storage_bucket": "examenparcial-8d77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494065508601:android:6fce225af912c7ec0f0228",
+        "android_client_info": {
+          "package_name": "com.example.examenparcial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494065508601-aaevc2taij2cuhfhlmquudsqjpmjcv7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8Ga3VKcJ8d9fVbOPaw7gJoWUAXhiPkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494065508601-aaevc2taij2cuhfhlmquudsqjpmjcv7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494065508601:android:f96cd0f1ac8aa3340f0228",
+        "android_client_info": {
+          "package_name": "com.example.exaparcialmoron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494065508601-aaevc2taij2cuhfhlmquudsqjpmjcv7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8Ga3VKcJ8d9fVbOPaw7gJoWUAXhiPkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494065508601-aaevc2taij2cuhfhlmquudsqjpmjcv7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
